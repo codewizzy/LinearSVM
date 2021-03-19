@@ -7,3 +7,4 @@ A program to train a linear SVM using thedataset given in file ionosphere.data a
 
 
 
+# ![300px-SVM_margin](https://user-images.githubusercontent.com/43826500/111771924-41009900-88d2-11eb-9d24-a544777bf21a.png)
